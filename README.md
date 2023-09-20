@@ -6,7 +6,7 @@ Install Python and add it to PATH
 
 Install following Libraries using these commands
 
-command: pip install requests beautifulsoup tkinter
+command: pip install requests beautifulsoup4 tkinter
 
 # How to run
 
